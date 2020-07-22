@@ -6,12 +6,18 @@ split() {
     export _RESULT_split=`cut -d$delimiter -f$index<<<$input`
 }
 
+extractStepName() {
+    stepFileName=$1
+    split "/" 2 $stepFileName
+    split "." 1 $_RESULT_split
+    export _RESULT_extractStepName=$_RESULT_split
+}
+
 createOutputDir () {
     basePath=$1
     baseFileName=$2
-    split "/" 2 $baseFileName
-    split "." 1 $_RESULT_split
-    export _RESULT_createOutputDir=$basePath"/"$_RESULT_split
+    extractStepName $baseFileName
+    export _RESULT_createOutputDir=$basePath"/"$_RESULT_extractStepName
 }
 
 # createOutputDir () {

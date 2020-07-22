@@ -34,6 +34,13 @@ test_that_split_serates_path_form_PATH_variable()
 #   assertNotEquals $? 0
 # }
 
+###################### extractStepName ##################
+test_that_extractStepName_returns_raw_name ()
+{
+  extractStepName "steps/01_remove.sh"
+  assertEquals "01_remove" $_RESULT_extractStepName
+}
+
 ###################### createOutputDir ##################
 test_that_createOutputDir_uses_base_path ()
 {

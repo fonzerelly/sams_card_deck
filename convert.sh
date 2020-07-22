@@ -5,12 +5,16 @@ export previousDir=from_scratch
 . ./helper.sh
 
 for step in steps/*.sh; do
-    createOutputDir "output" $step
-    mkdir --parents $_RESULT_createOutputDir
+    extractStepName $step
+    export currentStepName=$_RESULT_extractStepName
+    export currentDir="output/"$currentStepName
+    echo -n $currentStepName
+    mkdir --parents $currentDir
+    
     for f in $previousDir/*.svg; do 
-    # echo "Processing $f file.."
-        
-        $step $f
+        echo -n "."
+        $step $f $currentDir
     done
-    export previousDir="output/"+$step
+    echo
+    export previousDir=$currentDir
 done
