@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="63mm"
+   height="88mm"
+   viewBox="0 0 238.11023 332.59842"
+   id="svg28"
+   sodipodi:docname="D4.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1.232376"
+     inkscape:cx="109.88771"
+     inkscape:cy="128.20763"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     units="mm" />
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <text
+     id="text6"
+     style="font-weight:normal;font-size:40.98382568px;font-family:Serif;text-anchor:start;mix-blend-mode:normal;fill:#ff0000;fill-rule:nonzero;stroke:none;stroke-width:1.02459562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     font-weight="normal"
+     stroke-miterlimit="10"
+     xml:space="preserve"
+     font-size="40"
+     x="2.2098911"
+     y="30.417683"><tspan
+       id="tspan4"
+       dy="0"
+       x="2.2098911"
+       style="stroke-width:1.02459562">4</tspan></text>
+  <text
+     id="text10"
+     style="font-weight:normal;font-size:40.98382568px;font-family:Serif;text-anchor:start;mix-blend-mode:normal;fill:#ff0000;fill-rule:nonzero;stroke:none;stroke-width:1.02459562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     font-weight="normal"
+     stroke-miterlimit="10"
+     data-paper-data="{&quot;origRot&quot;:-45}"
+     xml:space="preserve"
+     font-size="40"
+     transform="scale(-1)"
+     x="-241.47507"
+     y="-302.181"><tspan
+       id="tspan8"
+       dy="0"
+       x="-241.47507"
+       style="stroke-width:1.02459562">4</tspan></text>
+  <path
+     style="mix-blend-mode:normal;fill:#ff0000;stroke:none;stroke-width:0"
+     id="path12"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 17.193242,70.449293 0,52.919506 17.193242,35.389719 34.386483,52.919506 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:#ff0000;stroke:none;stroke-width:0"
+     id="path14"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 226.49935,293.52799 209.30613,275.9982 226.49935,258.46841 243.6926,275.9982 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:3.07378697"
+     id="path16"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 69.865064,72.089998 51.617799,53.485554 69.865064,34.88111 88.11233,53.485554 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:3.07378697"
+     id="path18"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 68.788253,292.47136 50.540989,273.86692 68.788253,255.2625 87.035498,273.86692 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:3.07378697"
+     id="path20"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 176.42308,72.089998 158.17582,53.485554 176.42308,34.88111 194.67035,53.485554 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:3.07378697"
+     id="path22"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="m 176.02936,295.20361 -18.24726,-18.60444 18.24726,-18.60443 18.24725,18.60443 z"
+     inkscape:connector-curvature="0" />
+</svg>

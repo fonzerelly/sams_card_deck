@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="63mm"
+   height="88mm"
+   viewBox="0 0 238.11023 332.59842"
+   id="svg24"
+   sodipodi:docname="D2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/fonzy/projects/sams_card_deck/no_frame/D2.svg.png"
+   inkscape:export-xdpi="800.10004"
+   inkscape:export-ydpi="800.10004">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="1.232376"
+     inkscape:cx="109.88771"
+     inkscape:cy="95.75"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     units="mm" />
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <text
+     id="text6"
+     style="font-weight:normal;font-size:40.9838295px;font-family:Serif;text-anchor:start;mix-blend-mode:normal;fill:#ff0000;fill-rule:nonzero;stroke:none;stroke-width:1.02459574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     font-weight="normal"
+     stroke-miterlimit="10"
+     xml:space="preserve"
+     font-size="40"
+     x="2.2098491"
+     y="30.417702"><tspan
+       id="tspan4"
+       dy="0"
+       x="2.2098491"
+       style="stroke-width:1.02459574">2</tspan></text>
+  <text
+     id="text10"
+     style="font-weight:normal;font-size:40.9838295px;font-family:Serif;text-anchor:start;mix-blend-mode:normal;fill:#ff0000;fill-rule:nonzero;stroke:none;stroke-width:1.02459574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     font-weight="normal"
+     stroke-miterlimit="10"
+     data-paper-data="{&quot;origRot&quot;:-45}"
+     xml:space="preserve"
+     font-size="40"
+     transform="scale(-1)"
+     x="-241.4749"
+     y="-302.18073"><tspan
+       id="tspan8"
+       dy="0"
+       x="-241.4749"
+       style="stroke-width:1.02459574">2</tspan></text>
+  <path
+     style="mix-blend-mode:normal;fill:#ff0000;stroke:none;stroke-width:0"
+     id="path12"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 17.193229,71.132292 0,53.602504 17.193229,36.072715 34.386458,53.602504 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:#ff0000;stroke:none;stroke-width:0"
+     id="path14"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="m 226.49919,293.52793 -17.19321,-17.52979 17.19321,-17.52978 17.19323,17.52978 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:3.07378721"
+     id="path16"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="M 124.51011,72.772998 106.26286,54.168552 124.51011,35.564106 142.75736,54.168552 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:3.07378721"
+     id="path18"
+     data-paper-data="{&quot;origRot&quot;:0}"
+     d="m 123.43332,295.88663 -18.24725,-18.60444 18.24725,-18.60443 18.24723,18.60443 z"
+     inkscape:connector-curvature="0" />
+</svg>
